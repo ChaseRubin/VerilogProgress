@@ -1,2 +1,2 @@
 ﻿# VerilogPractice
-# VerilogPractice
+# Keeping progress here
