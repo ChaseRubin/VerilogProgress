@@ -90,7 +90,7 @@ always @(posedge clk) begin
 end
 
 initial begin
-#200 $finish;
+    #200 $finish;
 end
 
 endmodule

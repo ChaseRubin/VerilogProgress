@@ -1,0 +1,8 @@
+# 1. Stage all your new and modified files
+git add .
+
+# 2. Package your changes with a descriptive message
+git commit -m "Finished working on [describe what you did today]"
+
+# 3. Upload everything to GitHub
+git push
